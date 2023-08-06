@@ -1,0 +1,4 @@
+#! /bin/sh
+rm Tensorflow/workspace/models/my_ssd_mobnet/ckpt*.*
+rm Tensorflow/workspace/models/my_ssd_mobnet/checkpoint
+rm Tensorflow/workspace/models/my_ssd_mobnet/eval/*.*
